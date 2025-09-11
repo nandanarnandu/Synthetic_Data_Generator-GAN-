@@ -1,9 +1,9 @@
 # 🧠📊 Synthetic Data Generator using GANs
 
-[![Python](https://img.shields.io/badge/python-v3.8%2B-blue.svg)](https://www.python.org/downloads/)  
-[![TensorFlow](https://img.shields.io/badge/tensorflow-v2-orange.svg)](https://www.tensorflow.org/)  
-[![scikit-learn](https://img.shields.io/badge/scikit--learn-ML-orange.svg)](https://scikit-learn.org/)  
-[![pandas](https://img.shields.io/badge/pandas-Data%20Wrangling-150458.svg)](https://pandas.pydata.org/)  
+[![Python](https://img.shields.io/badge/python-v3.8%2B-blue.svg)](https://www.python.org/downloads/)
+[![TensorFlow](https://img.shields.io/badge/tensorflow-v2-orange.svg)](https://www.tensorflow.org/)
+[![scikit-learn](https://img.shields.io/badge/scikit--learn-ML-orange.svg)](https://scikit-learn.org/)
+[![pandas](https://img.shields.io/badge/pandas-Data%20Wrangling-150458.svg)](https://pandas.pydata.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 > A complete synthetic data generation solution using Generative Adversarial Networks (GANs) to create privacy-safe synthetic app usage data. Built with Python, TensorFlow, and scikit-learn, perfect for data augmentation and safe model training.
